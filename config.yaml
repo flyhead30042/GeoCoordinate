@@ -1,0 +1,8 @@
+twd:
+  debug: False
+  data: data/little15_team6.csv
+  crs: CRS_TWD97
+  prefix_x: "3"
+  prefix_y: "27"
+  post_x: "0"
+  post_y: "0"

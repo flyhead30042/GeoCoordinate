@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="24.83606868244642" lon="121.44510622462028">
+    <ele>340</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>A</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.830749632525258" lon="121.44251498993341">
+    <ele>425</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>B</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.82930481350604" lon="121.44260878508436">
+    <ele>420</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>C</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.82795407973003" lon="121.44141683323953">
+    <ele>450</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>D</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.82271093466722" lon="121.44367352450362">
+    <ele>770</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>E</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.820278566563594" lon="121.44188424453046">
+    <ele>870</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>F</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.817665609170586" lon="121.44009439697854">
+    <ele>985</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>G</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.814784963799568" lon="121.4372155768904">
+    <ele>1140</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>H</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.81243875797997" lon="121.43681167651499">
+    <ele>1195</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>I</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.811265942999416" lon="121.43651081731527">
+    <ele>1145</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>J</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.809007708032812" lon="121.43689856414221">
+    <ele>1120</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>K</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.807834315103378" lon="121.43679553745815">
+    <ele>1125</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>L</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.80665832069289" lon="121.4375827147669">
+    <ele>1135</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>M</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.806285271034486" lon="121.44163679766676">
+    <ele>960</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>N</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.808267991818767" lon="121.44283078612806">
+    <ele>900</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>O</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="24.82206241463402" lon="121.44921098529153">
+    <ele>460</ele>
+    <time>2019-04-09T13:48:12Z</time>
+    <name>Q</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>

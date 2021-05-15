@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="25.122134911983196" lon="121.50277260155642">
+    <ele>10</ele>
+    <time>2021-05-15T08:01:03Z</time>
+    <name>公館路入口</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.135392376450866" lon="121.5067938821155">
+    <ele>50</ele>
+    <time>2021-05-15T08:01:03Z</time>
+    <name>奇岩路入口</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.136196383214045" lon="121.50927659706221">
+    <ele>50</ele>
+    <time>2021-05-15T08:01:04Z</time>
+    <name>D1</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.134298827602954" lon="121.50976459841915">
+    <ele>130</ele>
+    <time>2021-05-15T08:01:04Z</time>
+    <name>D2</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.133753399184975" lon="121.51085324665351">
+    <ele>160</ele>
+    <time>2021-05-15T08:01:04Z</time>
+    <name>D4</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.133836483437165" lon="121.51293624446492">
+    <ele>190</ele>
+    <time>2021-05-15T08:01:04Z</time>
+    <name>D5</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.13074907353401" lon="121.51808026100241">
+    <ele>185</ele>
+    <time>2021-05-15T08:01:04Z</time>
+    <name>B5</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.132026788048456" lon="121.51411875474993">
+    <ele>150</ele>
+    <time>2021-05-15T08:01:04Z</time>
+    <name>B6</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.122491649322452" lon="121.50406320426477">
+    <ele>35</ele>
+    <time>2021-05-15T08:01:05Z</time>
+    <name>C2</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.122932558022" lon="121.50713913350071">
+    <ele>60</ele>
+    <time>2021-05-15T08:01:05Z</time>
+    <name>C3</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.123920187516056" lon="121.50872986551349">
+    <ele>60</ele>
+    <time>2021-05-15T08:01:05Z</time>
+    <name>C4</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.12436612711792" lon="121.5103183727898">
+    <ele>90</ele>
+    <time>2021-05-15T08:01:05Z</time>
+    <name>C5</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.124361683146784" lon="121.51160751585428">
+    <ele>100</ele>
+    <time>2021-05-15T08:01:05Z</time>
+    <name>C6</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="25.12606461239247" lon="121.51518464240107">
+    <ele>163</ele>
+    <time>2021-05-15T08:01:06Z</time>
+    <name>C7</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
